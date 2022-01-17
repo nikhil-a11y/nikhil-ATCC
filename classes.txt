@@ -1,0 +1,9 @@
+Auto
+Bike
+Bus
+CarJeep
+LCV
+MAV
+Tractor
+Truck
+Truck3X
